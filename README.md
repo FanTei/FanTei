@@ -8,16 +8,10 @@
 🎓 &nbsp;I'm currently studying Java Microsevices.\
 💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
 ✉️ &nbsp;You can написать мне в telegram @AMGprokuratura I'll try to respond as soon as I can.\
-<<<<<<< HEAD
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 ### 🛠 &nbsp;Tech Stack
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)\
+![Kotlin](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-=======
-<img alt="Night Coding" src="https://github.com/FanTei/FanTei/blob/main/assets/coding.gif" align="right"/>
->>>>>>> 0cc2b2c75777fb0971a8c926795a669518e202f5
